@@ -1,0 +1,82 @@
+[
+    {
+        "firstName" : "Avela",
+        "lastName" : "Nikani",
+        "favHobby" : "Rugby",
+        "criminal" : false,
+        "dreamCars" : [
+            {
+                "carName" : "Mercedes Benz",
+                "engineCapacity" : 2,
+                "model" : "A200"
+
+            },
+            {
+                "carName" : "BMW",
+                "engineCapacity" : 2,
+                "model" : "118i"
+
+            }
+    ]
+    },
+    {
+        "firstName" : "Lithemba",
+        "lastName" : "Mlenze",
+        "favHobby" : "Soccer",
+        "criminal" : true,
+        "dreamCars" : [
+            {
+                "carName" : "Mercedes Benz",
+                "engineCapacity" : 4,
+                "model" : "AMG GT"
+
+            },
+            {
+                "carName" : "Dodge",
+                "engineCapacity" : 5.7,
+                "model" : "Challenger"
+
+            }
+    ]
+    },
+    {
+        "firstName" : "Zenande",
+        "lastName" : "Nocanda",
+        "favHobby" : "uxhentsa",
+        "criminal" : false,
+        "dreamCars" : [
+            {
+                "carName" : "Toyota Hilux",
+                "engineCapacity" : 3.6,
+                "model" : "Legend 50"
+
+            },
+            {
+                "carName" : "Ford",
+                "engineCapacity" : 3.0,
+                "model" : "Ranger WildTrak"
+
+            }
+    ]
+    },
+    {
+        "firstName" : "Sivuyile",
+        "lastName" : "Mtwetwe",
+        "favHobby" : "Coding",
+        "criminal" : true,
+        "dreamCars" : [
+            {
+                "carName" : "Ferrari 250 GT",
+                "engineCapacity" : 3,
+                "model" : "Coupe"
+
+            },
+            {
+                "carName" : "Lamborghini",
+                "engineCapacity" : 2,
+                "model" : "Urus"
+
+            }
+    ]
+    }
+]
