@@ -1,82 +1,44 @@
 [
     {
-        "firstName" : "Avela",
-        "lastName" : "Nikani",
-        "favHobby" : "Rugby",
-        "criminal" : false,
-        "dreamCars" : [
-            {
-                "carName" : "Mercedes Benz",
-                "engineCapacity" : 2,
-                "model" : "A200"
-
-            },
-            {
-                "carName" : "BMW",
-                "engineCapacity" : 2,
-                "model" : "118i"
-
-            }
-    ]
+        "userID":"",
+        "firstName":"Siyavuya",
+        "lastName":"Khohlani",
+        "Email":"Siyavuyakhohlani2@gmail.com",
+        "registrationDate":"10 June 2024"
     },
     {
-        "firstName" : "Lithemba",
-        "lastName" : "Mlenze",
-        "favHobby" : "Soccer",
-        "criminal" : true,
-        "dreamCars" : [
-            {
-                "carName" : "Mercedes Benz",
-                "engineCapacity" : 4,
-                "model" : "AMG GT"
-
-            },
-            {
-                "carName" : "Dodge",
-                "engineCapacity" : 5.7,
-                "model" : "Challenger"
-
-            }
-    ]
+        "userID":"",
+        "firstName":"Avela",
+        "lastName":"Nikani",
+        "Email":"avelarnikani47@gmail.com",
+        "registrationDate":"23 February 2014"
     },
     {
-        "firstName" : "Zenande",
-        "lastName" : "Nocanda",
-        "favHobby" : "uxhentsa",
-        "criminal" : false,
-        "dreamCars" : [
-            {
-                "carName" : "Toyota Hilux",
-                "engineCapacity" : 3.6,
-                "model" : "Legend 50"
-
-            },
-            {
-                "carName" : "Ford",
-                "engineCapacity" : 3.0,
-                "model" : "Ranger WildTrak"
-
-            }
-    ]
+        "userID":"",
+        "userName":"Zenande",
+        "lastName":"Nocanda",
+        "Email":"zenandenocanda16@gmail.com",
+        "registrationDate":"15 September 2024"
     },
     {
-        "firstName" : "Sivuyile",
-        "lastName" : "Mtwetwe",
-        "favHobby" : "Coding",
-        "criminal" : true,
-        "dreamCars" : [
-            {
-                "carName" : "Ferrari 250 GT",
-                "engineCapacity" : 3,
-                "model" : "Coupe"
-
-            },
-            {
-                "carName" : "Lamborghini",
-                "engineCapacity" : 2,
-                "model" : "Urus"
-
-            }
-    ]
+        "userID":"",
+        "userName":"Usisipho",
+        "lastName":"Mxinwa",
+        "Email":"usimxi711@gmail.com",
+        "registrationDate":"15 September 2024"
+    },
+    {
+        "userID":"",
+        "userName":"Asiphesona",
+        "lastName":"Dumzela",
+        "Email":"asiphesonadumzela31@gmail.com",
+        "registrationDate":"09 January 2024"
+    },
+    {
+        "userID":"",
+        "userName":"Sivuyile",
+        "lastName":"Mtwetwe",
+        "Email":"sivuyilemtwetwe@gmail.com",
+        "registrationDate":"09 January 2024"
     }
 ]
